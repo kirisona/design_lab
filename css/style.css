@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'latolight';
+    src: url('../font/lato-light-webfont.woff2') format('woff2'),
+         url('../font/lato-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'latobold';
+    src: url('../font/latobold-webfont.woff2') format('woff2'),
+         url('../font/latobold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'latoregular';
+    src: url('../font/latoregular-webfont.woff2') format('woff2'),
+         url('../font/latoregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
