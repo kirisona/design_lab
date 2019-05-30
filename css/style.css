@@ -137,8 +137,8 @@
 
 .about-us__text {
     display: inline-block;
-    padding: 103px 240px;
-    font-size: 1.1rem; /*16px*/
+    padding: 103px 220px; /*240px*/
+    font-size: 1.15rem; /*16px*/
     font-family: 'latoregular', serif;
     line-height: 2;
 }
@@ -202,8 +202,8 @@
 
 .services-text__text {
     display: inline-block;
-    padding: 74px 185px 25px;
-    font-size: 1.1rem; /*16px*/
+    padding: 74px 160px 25px; /*left right 185px*/
+    font-size: 1.15rem; /*16px*/
     font-family: 'latolight', serif;
     line-height: 2;
 }
@@ -256,11 +256,11 @@
     text-transform: uppercase;
     letter-spacing: 0.1em;
     font-family: 'latobold', serif;
-    padding: 25px 0; /*35px*/
+    padding: 20px 0; /*35px*/
 }
 
 .content__text {
-    font-size: 1rem; /*14px*/
+    font-size: 1.1rem; /*14px*/
     line-height: 2;
     font-family: 'latolight';
 }
